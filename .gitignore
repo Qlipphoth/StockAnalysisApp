@@ -108,6 +108,7 @@ AnalysisResults/Imgs/
 
 # User files
 key.md
+config.json
 
 # OS files
 .DS_Store
